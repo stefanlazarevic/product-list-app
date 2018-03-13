@@ -82,6 +82,7 @@ class ProductList extends React.Component {
     }
 }
 
+// This is a single product component rendered from ProductList.
 class Product extends React.Component {
 
     constructor(props) {
