@@ -1,0 +1,45 @@
+.image {
+    width: 100%;
+    height: 100%;
+}
+
+.product {
+    margin-bottom: 25px;
+}
+
+.product-votes__controller .action{
+    display: inline-block;
+    margin: 10px 15px 10px 0;
+    font-size: 36px;
+    cursor: pointer;
+}
+
+.product-votes__up {
+    color: green;
+}
+
+.product-votes__down {
+    color: red;
+}
+
+.product__star {
+    color: orange;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.product-submitter__image {
+    display: inline-block;
+    border-radius: 50%;
+    max-width: 40px;
+    margin-right: 10px;
+}
+
+.image--round {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.product__footer {
+    margin-top: 20px;
+}
